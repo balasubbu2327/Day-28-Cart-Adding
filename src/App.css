@@ -1,0 +1,22 @@
+.App {
+  text-align: center;
+  background-color: rgb(138, 183, 252);
+}
+
+.carddisplayrow{
+  padding: 20px;
+}
+.cardcol{
+  padding: 20px;
+  
+}
+li.list-group-item {
+  padding: 20px;
+  margin: 10px;
+}
+.modal-body {
+  background-color: #3a88d6;
+}
+span.data {
+  padding: 20px;
+}
